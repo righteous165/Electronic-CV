@@ -1,0 +1,25 @@
+header{
+    background-color: rgb(161, 222, 29);
+    text-align: center;
+}
+.Information{
+    font-style: italic;
+    font-weight: bolder;
+}
+.Order{
+    font-weight: bold;
+    
+}
+#Italic{
+    font-style: italic;
+}
+footer{
+    background-color: rgb(161, 222, 29);
+}
+h4{
+    margin: auto;
+}
+body{
+    background-color: aliceblue;
+    font-size: auto;
+}
