@@ -21,5 +21,30 @@ h4{
 }
 body{
     background-color: aliceblue;
-    font-size: auto;
+    font-size: 16px;
+    text-align: center;
+}
+ul {
+    margin: auto;
+    width: fit-content;
+    text-align: center;
+}
+li {
+    margin: auto;
+    text-align: center;
+    list-style-position: inside;
+}
+.inline-list li {
+    text-align: left;
+    margin: 0.2rem 0;
+}
+main{
+    margin: auto;
+    width: fit-content;
+    text-align: center;
+}
+.inline-list {
+    display: inline-block;
+    margin: auto;
+    text-align: center;
 }
