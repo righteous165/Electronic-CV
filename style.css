@@ -43,6 +43,14 @@ main{
     width: fit-content;
     text-align: center;
 }
+.professional-info {
+    text-align: center;
+    width: min(600px, 95%);
+    margin: 0.8rem auto 1.2rem auto;
+    background-color: aliceblue;
+    padding: 0.6rem 0.8rem;
+    border-radius: 8px;
+}
 .inline-list {
     display: inline-block;
     margin: auto;
